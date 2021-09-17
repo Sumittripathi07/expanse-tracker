@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/expanse-tracker/static/css/main.98a87ce3.chunk.css",
+    "main.js": "/expanse-tracker/static/js/main.fbaa17c9.chunk.js",
+    "main.js.map": "/expanse-tracker/static/js/main.fbaa17c9.chunk.js.map",
+    "runtime-main.js": "/expanse-tracker/static/js/runtime-main.d29e9cfb.js",
+    "runtime-main.js.map": "/expanse-tracker/static/js/runtime-main.d29e9cfb.js.map",
+    "static/js/2.abb7a375.chunk.js": "/expanse-tracker/static/js/2.abb7a375.chunk.js",
+    "static/js/2.abb7a375.chunk.js.map": "/expanse-tracker/static/js/2.abb7a375.chunk.js.map",
+    "index.html": "/expanse-tracker/index.html",
+    "static/css/main.98a87ce3.chunk.css.map": "/expanse-tracker/static/css/main.98a87ce3.chunk.css.map",
+    "static/js/2.abb7a375.chunk.js.LICENSE.txt": "/expanse-tracker/static/js/2.abb7a375.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d29e9cfb.js",
+    "static/js/2.abb7a375.chunk.js",
+    "static/css/main.98a87ce3.chunk.css",
+    "static/js/main.fbaa17c9.chunk.js"
+  ]
+}
